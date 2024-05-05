@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMDT2227-7-F
+D Bipolar Transistors - BJT 40 / 60V 200mW COMPLEMENTARY NPN / PNP SMALL SIGNAL SURFACE MOUNT TRANSISTOR
+K
+F https://www.diodes.com//assets/Datasheets/MMDT2227.pdf
+$ENDCMP
+#
+#End Doc Library

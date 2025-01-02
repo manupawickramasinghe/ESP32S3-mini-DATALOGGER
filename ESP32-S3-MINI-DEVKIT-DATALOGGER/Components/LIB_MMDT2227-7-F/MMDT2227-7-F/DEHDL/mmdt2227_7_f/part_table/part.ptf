@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MMDT2227_7_F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "MMDT2227-7-F" (!) = "", "SOT65P210X110-6N", "SOT23 (6-Pin)", "621-MMDT2227-F", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMDT2227-7-F?qs=YYngZPCCNnnEyw0APtcOXw%3D%3D", "Bipolar Transistors - BJT 40 / 60V 200mW COMPLEMENTARY NPN / PNP SMALL SIGNAL SURFACE MOUNT TRANSISTOR", "https://www.diodes.com//assets/Datasheets/MMDT2227.pdf", "1.1 mm"
+END_PART
+
+END.

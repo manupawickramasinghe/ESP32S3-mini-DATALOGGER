@@ -1,0 +1,174 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1d271606-59a8-485d-8d5a-e30c5f05f5f7")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 124.46 74.93)
+		(size 52.07 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "12b375e4-6ffb-4b6e-8888-7c1e6d16a0c9")
+		(property "Sheetname" "ESP32-S3-MINI-module"
+			(at 124.46 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "wireless_module.kicad_sch"
+			(at 124.46 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32-S3-MINI-DEVKIT-DATALOGGER"
+				(path "/1d271606-59a8-485d-8d5a-e30c5f05f5f7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 93.98)
+		(size 44.45 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5019f95d-4aad-4122-b69c-c63dd8fb4240")
+		(property "Sheetname" "CAN_module"
+			(at 54.61 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "can_module.kicad_sch"
+			(at 54.61 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32-S3-MINI-DEVKIT-DATALOGGER"
+				(path "/1d271606-59a8-485d-8d5a-e30c5f05f5f7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 57.15 34.29)
+		(size 39.37 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6a73b4a9-476d-4e91-be55-5f034211979a")
+		(property "Sheetname" "rs485_module"
+			(at 57.15 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rs485module.kicad_sch"
+			(at 57.15 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32-S3-MINI-DEVKIT-DATALOGGER"
+				(path "/1d271606-59a8-485d-8d5a-e30c5f05f5f7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 35.56)
+		(size 41.91 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6ff550de-8340-4224-a8d6-1bad48aebde4")
+		(property "Sheetname" "power_module"
+			(at 152.4 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_module.kicad_sch"
+			(at 152.4 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 152.4 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ESP32-S3-MINI-DEVKIT-DATALOGGER"
+				(path "/1d271606-59a8-485d-8d5a-e30c5f05f5f7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

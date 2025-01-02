@@ -1,0 +1,16 @@
+.MMDT2227-7-F :1 ;Bipolar Transistors - BJT 40 / 60V 200mW COMPLEMENTARY NPN / PNP SMALL SIGNAL SURFACE MOUNT TRANSISTOR
+SOT65P210X110-6N
+*STM Q
+*NGS
+*PLB 1="E2" 2="B2" 3="C1" 4="E1" 5="B1" 6="C2"
+*MXP 6
+*DFN MMDT2227-7-F
+~!Mouser Part Number (621-MMDT2227-F)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMDT2227-7-F?qs=YYngZPCCNnnEyw0APtcOXw%3D%3D)
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (MMDT2227-7-F)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/MMDT2227.pdf)
+~!Height (1.1mm)
+~!3D_Model (MMDT2227-7-F)
+MMDT2227-7-F
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

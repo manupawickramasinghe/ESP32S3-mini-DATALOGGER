@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=MMDT2227-7-F
+PartCategory=Transistor BJT PNP
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=5.1
+Released=2020-10-29 05:49:10
+Downloaded=2024-05-03 09:20:23
+3D=Y
